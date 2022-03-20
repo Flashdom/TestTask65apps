@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestTask65apps</string>
+    <string name="birthdate">%1$s г.</string>
+    <string name="no_birthdate">-</string>
+</resources>
